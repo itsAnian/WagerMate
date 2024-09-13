@@ -8,3 +8,7 @@ https://wagermate-main.onrender.com/
 # Wiki (includes Product Definition, Architecture etc.)
 
 https://github.com/marc-dhbw/WagerMate/wiki
+
+# Original Repo
+
+https://github.com/marc-dhbw/WagerMate
